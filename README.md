@@ -10,34 +10,45 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=00FF00&height=100&section=header&text=minwoo._.exfp&fontColor=FF69B4&fontSize=65&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
 <br/>
 
-##  :wave: Welcome to minwoo`s github profile! :fire:
+##  :raised_hands: Welcome to minwoo`s github profile! :man_technologist:
+
+<br/>
+
+###  :rainbow: Empiricism, EXFP :fire:
 
 <br/>
 
 <div align="center"> 
 
   <div style="font-size: larger;">
-    <img width="15" alt="Instagram Icon" src="https://github.com/minwoo1213/minwoo1213/assets/103166594/8327ff98-6f9e-48ed-9681-50a859ea54c1" style="vertical-align:middle;"> <strong><a href="https://www.instagram.com/minwoo._.exfp/">minwoo._.exfp</a></strong>
+    <a href="https://www.instagram.com/minwoo._.exfp/">
+      <img width="15" alt="Instagram Icon" src="https://github.com/minwoo1213/minwoo1213/assets/103166594/8327ff98-6f9e-48ed-9681-50a859ea54c1" style="vertical-align:middle;">
+      <strong>minwoo._.exfp</strong>
+    </a>
   </div>
 
 <br/>
 
   <div style="font-size: larger;">
-    <strong>:telephone_receiver: <a href="https://drive.google.com/file/d/1_MshrmxmAJWu5ShHZ-CuRAQpoxo3fgEL/view?usp=drive_link">+82 10-9586-4289</a></strong>
+    <strong>
+      <a href="https://drive.google.com/file/d/1_MshrmxmAJWu5ShHZ-CuRAQpoxo3fgEL/view?usp=drive_link">:telephone_receiver: +82 10-9586-4289</a>
+    </strong>
   </div>
 
 <br/>
 
-<div style="font-size: larger;">
-    <strong>:email: <a href="mailto:chaminwoo1213@gmail.com">chaminwoo1213@gmail.com</a></strong>
-</div>
+  <div style="font-size: larger;">
+    <strong>
+      <a href="mailto:chaminwoo1213@gmail.com">:email: chaminwoo1213@gmail.com</a>
+    </strong>
+  </div>
 
 </div>
 
 <br/>
 <br/>
 
-###  :clipboard: Technologies I've Used
+###  :desktop_computer: My dev beliefs : A craftsman does not blame the tools. learn and feel more :wrench: 
 
 <br/>
 
