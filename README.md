@@ -7,17 +7,25 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=f6b3be&height=100&section=header&text=minwoo._.exfp&fontColor=000000&fontSize=65&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
 <br/>
 
-##  :wave: Welcome to minwoo`s github profile! 
+##  :wave: Welcome to minwoo`s github profile! :black_heart:
 
 <br/>
 
 <div align="center"> 
 
-<img width="15" alt="Instagram Icon" src="https://github.com/minwoo1213/minwoo1213/assets/103166594/8327ff98-6f9e-48ed-9681-50a859ea54c1" style="vertical-align:middle;"> ***[minwoo._.exfp](https://www.instagram.com/minwoo._.exfp/)***
+  <div style="font-size: larger;">
+    <img width="15" alt="Instagram Icon" src="https://github.com/minwoo1213/minwoo1213/assets/103166594/8327ff98-6f9e-48ed-9681-50a859ea54c1" style="vertical-align:middle;"> <strong><a href="https://www.instagram.com/minwoo._.exfp/">minwoo._.exfp</a></strong>
+  </div>
 
-***:telephone_receiver: [+82 10-9586-4289](https://drive.google.com/file/d/1_MshrmxmAJWu5ShHZ-CuRAQpoxo3fgEL/view?usp=drive_link)***  
+  <div style="font-size: larger;">
+    <strong>:telephone_receiver: <a href="https://drive.google.com/file/d/1_MshrmxmAJWu5ShHZ-CuRAQpoxo3fgEL/view?usp=drive_link">+82 10-9586-4289</a></strong>
+  </div>
 
-***:email: chaminwoo1213@gmail.com***
+<div style="font-size: larger;">
+    <strong>:email: <a href="mailto:chaminwoo1213@gmail.com">chaminwoo1213@gmail.com</a></strong>
+</div>
+
+</div>
 
 <br/>
 <br/>
