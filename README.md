@@ -10,11 +10,11 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=00FF00&height=100&section=header&text=minwoo._.exfp&fontColor=FF69B4&fontSize=65&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62)
 <br/>
 
-##  :raised_hands: Welcome to minwoo`s github profile! :man_technologist:
+##  :rainbow: Welcome to minwoo`s github profile! :man_technologist:
 
 <br/>
 
-###  :rainbow: Empiricism, EXFP :fire:
+###  Empiricism, exfp :fire:
 
 <br/>
 
