@@ -13,8 +13,10 @@
 
 <div align="center"> 
 
-***:calling: [@minwoo._.exfp](https://www.instagram.com/minwoo._.exfp/)***  
+<img width="15" alt="Instagram Icon" src="https://github.com/minwoo1213/minwoo1213/assets/103166594/8327ff98-6f9e-48ed-9681-50a859ea54c1" style="vertical-align:middle;"> ***[minwoo._.exfp](https://www.instagram.com/minwoo._.exfp/)***
+
 ***:telephone_receiver: [+82 10-9586-4289](https://drive.google.com/file/d/1_MshrmxmAJWu5ShHZ-CuRAQpoxo3fgEL/view?usp=drive_link)***  
+
 ***:email: chaminwoo1213@gmail.com***
 
 <br/>
