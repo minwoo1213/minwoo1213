@@ -17,9 +17,13 @@
     <img width="15" alt="Instagram Icon" src="https://github.com/minwoo1213/minwoo1213/assets/103166594/8327ff98-6f9e-48ed-9681-50a859ea54c1" style="vertical-align:middle;"> <strong><a href="https://www.instagram.com/minwoo._.exfp/">minwoo._.exfp</a></strong>
   </div>
 
+<br/>
+
   <div style="font-size: larger;">
     <strong>:telephone_receiver: <a href="https://drive.google.com/file/d/1_MshrmxmAJWu5ShHZ-CuRAQpoxo3fgEL/view?usp=drive_link">+82 10-9586-4289</a></strong>
   </div>
+
+<br/>
 
 <div style="font-size: larger;">
     <strong>:email: <a href="mailto:chaminwoo1213@gmail.com">chaminwoo1213@gmail.com</a></strong>
