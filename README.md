@@ -48,7 +48,7 @@
 <br/>
 <br/>
 
-###  :desktop_computer: My dev beliefs : A craftsman does not blame the tools. learn and feel more :wrench: 
+###  :desktop_computer: Dev beliefs : A craftsman does not blame the tools. learn and feel more :wrench: 
 
 <br/>
 
