@@ -31,7 +31,7 @@
 
   <div style="font-size: larger;">
     <strong>
-      <a href="https://drive.google.com/file/d/1_MshrmxmAJWu5ShHZ-CuRAQpoxo3fgEL/view?usp=drive_link">:telephone_receiver: +82 10-9586-4289</a>
+      <a href="https://drive.google.com/file/d/1_MshrmxmAJWu5ShHZ-CuRAQpoxo3fgEL/view?usp=drive_link">:telephone_receiver: tel:010-9586-4289</a>
     </strong>
   </div>
 
