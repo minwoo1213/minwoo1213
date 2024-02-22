@@ -29,11 +29,11 @@
 
 <br/>
 
-  <div style="font-size: larger;">
-    <strong>
-      <a href="tel:010-9586-4289">:telephone_receiver: 82 +10-9586-4289</a>
-    </strong>
-  </div>
+<div style="font-size: larger;">
+  <strong>
+    <a href="tel:+821095864289">:telephone_receiver: 82 +10-9586-4289</a>
+  </strong>
+</div>
 
 <br/>
 
