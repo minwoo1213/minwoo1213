@@ -31,7 +31,7 @@
 
 <div style="font-size: larger;">
   <strong>
-    <a href="[tel:+821095864289](https://drive.google.com/drive/folders/1ZYE8Mcj7tytGxnBxS8JnDzznIR95POnv?usp=sharing)">:telephone_receiver: 82 +10-9586-4289</a>
+    <a href="https://drive.google.com/drive/folders/1ZYE8Mcj7tytGxnBxS8JnDzznIR95POnv?usp=sharing">:telephone_receiver: 82 +10-9586-4289</a>
   </strong>
 </div>
 
