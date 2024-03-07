@@ -16,6 +16,18 @@
 
 ###  Empiricism, exfp :fire:
 
+
+<br/>
+
+<div align="center"> 
+
+  <div style="font-size: larger;">
+      <img width="15" alt="image" src="https://github.com/minwoo1213/minwoo1213/assets/103166594/b322b3c3-b29e-412f-89d8-3e180c4ada94">
+      <a href="https://www.linkedin.com/in/minwoo-cha-90a99b2a7/">Linkedin</a>
+    </a>
+  </div>
+
+
 <br/>
 
 <div align="center"> 
@@ -28,6 +40,7 @@
   </div>
 
 <br/>
+
 
 <div style="font-size: larger;">
   <strong>
