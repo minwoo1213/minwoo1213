@@ -45,15 +45,16 @@
       </div>
       <br/>
       <div style="font-size: larger;">
-          <a href="https://www.linkedin.com/in/minwoo-cha-90a99b2a7/">
-          <img width="15" alt="image" src="https://github.com/minwoo1213/minwoo1213/assets/103166594/b322b3c3-b29e-412f-89d8-3e180c4ada94" style="vertical-align:middle;">
-        <strong>Linkedin</strong>
+        <a href="https://www.linkedin.com/in/minwoo-cha-90a99b2a7/">
+          <img width="15" alt="LinkedIn Icon" src="https://github.com/minwoo1213/minwoo1213/assets/103166594/b322b3c3-b29e-412f-89d8-3e180c4ada94" style="vertical-align:middle;">
+          <strong>LinkedIn</strong>
+        </a>
       </div>
     </td>
 
     <!-- 오른쪽: GitHub 통계 -->
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=minwoo1213&show_icons=true&theme=radical" alt="Minwoo's GitHub stats">
+      <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=minwoo1213&show_icons=true&theme=radical" alt="Minwoo's GitHub stats">
     </td>
   </tr>
 </table>
