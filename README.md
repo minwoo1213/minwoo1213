@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,13,19,20,29&height=200&section=header&text=Minwoo%20Cha&fontSize=65&animation=fadeIn&fontAlignY=38&desc=Technical%20Manager%20%7C%20%40neubility&descAlignY=58&descAlign=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=15,16,19,20,29&height=200&section=header&text=Minwoo%20Cha&fontSize=65&animation=fadeIn&fontAlignY=38&desc=Technical%20Manager%20%7C%20%40neubility&descAlignY=58&descAlign=50)
 
 # 🤖 Welcome to Minwoo's Github
 
