@@ -19,7 +19,7 @@
 
 </br>
 
-## 📊 GitHub Stats
+## 📊 GitHub Stat
 
 <div align="center">
 <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=minwoo1213&show_icons=true&theme=tokyonight" alt="Minwoo's GitHub stats"/>
@@ -28,7 +28,7 @@
 
 </br>
 
-## 🛠️ Technical Specs
+## 🛠️ Technical Spec
 
 ### Robotics Engineering
 
