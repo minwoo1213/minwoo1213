@@ -11,7 +11,6 @@
 ## 📱 Contact Me
 
 <div align="center">
-<a href="https://www.instagram.com/minwoo._.exfp/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 <a href="https://www.linkedin.com/in/minwoo-cha-90a99b2a7/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:chaminwoo1213@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="tel:+821095864289"><img src="https://img.shields.io/badge/Contact-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Phone"/></a>
@@ -23,7 +22,6 @@
 
 <div align="center">
 <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=minwoo1213&show_icons=true&theme=tokyonight" alt="Minwoo's GitHub stats"/>
-<img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=minwoo1213&theme=tokyonight" alt="Minwoo's GitHub streak"/>
 </div>
 
 </br>
