@@ -40,13 +40,12 @@
 
 </br>
 
-### Web Engineering
+### ETc Engineering
 
 | **Category**                | **Technologies**                                                                 |
 |-----------------------------|----------------------------------------------------------------------------------|
-| **Design Tool**          | ![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)  |
-| **Backend Development Language**         | ![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  |
-| **Frontend Development Language**        | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)  |
+| **Design Tool**          | ![Figma](https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe&logoColor=white)  |
+| **Protocol**         | ![RS232](https://img.shields.io/badge/RS232-007BFF?style=for-the-badge&logoColor=white)  ![TCP](https://img.shields.io/badge/TCP-28A745?style=for-the-badge&logoColor=white)
 
 </br>
 
